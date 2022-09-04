@@ -1,24 +1,16 @@
 # my_books
 
-## Project setup
+## 下载依赖
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 运行项目
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+##  鹏搜索
 
-### Lints and fixes files
-```
-yarn lint
-```
+​		
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
